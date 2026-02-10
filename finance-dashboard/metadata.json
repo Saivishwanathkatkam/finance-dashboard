@@ -1,5 +1,0 @@
-{
-  "name": "Finance Dashboard",
-  "description": "A modern, interactive finance dashboard to track income, bank statements, and investments. Features include CSV uploads, manual data entry, dynamic filtering, and insightful data visualizations.",
-  "requestFramePermissions": []
-}
